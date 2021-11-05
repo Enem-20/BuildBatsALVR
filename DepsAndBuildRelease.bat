@@ -1,0 +1,2 @@
+Deps.bat
+BuildRelease.bat

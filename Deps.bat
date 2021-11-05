@@ -1,0 +1,1 @@
+cargo xtask build-android-deps
